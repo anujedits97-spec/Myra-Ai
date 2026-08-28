@@ -1,0 +1,7 @@
+{
+  "name": "Maya AI Assistant",
+  "description": "Cyberpunk HUD voice & text AI assistant featuring PiP floating circle mode, Smart App Control, Cyber-Vision camera scanner, Android System Optimizer, Screen & Clipboard Reader, Security Shield App Lock, and AI Automation Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
